@@ -1,6 +1,6 @@
 # Algorithms used in UK-Vietnam machine learning generalizability study
 
-This repository hosts the version of the code used for the publication ["Generalizability Assessment of AI Models Across Hospitals: A Comparative Study in Low-Middle Income and High Income Countries"]([https://www.medrxiv.org/content/10.1101/2023.11.05.23298109v1]). 
+This repository hosts the version of the code used for the publication ["Generalizability Assessment of AI Models Across Hospitals: A Comparative Study in Low-Middle Income and High Income Countries"](https://www.medrxiv.org/content/10.1101/2023.11.05.23298109v1). 
 
 ## Dependencies
 
