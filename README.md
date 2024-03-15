@@ -30,6 +30,8 @@ This example uses the UCI Adult dataset, where one is trying to classify income 
 
 An example run and expected output can be found in algorithms.ipynb
 
+Typical time to run code should be less than 1 min.
+
 ## Citation
 
 If you found our work useful, please consider citing:
