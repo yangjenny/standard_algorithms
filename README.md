@@ -32,6 +32,10 @@ An example run and expected output can be found in algorithms.ipynb
 
 Typical time to run code should be less than 1 min.
 
+To reproduce results in paper:
+Data from OUH studied here are available from the Infections in Oxfordshire Research Database (https://oxfordbrc.nihr.ac.uk/research-themes/modernising-medical-microbiology-and-big-infection-diagnostics/infections-in-oxfordshire-research-database-iord/), subject to an application meeting the ethical and governance requirements of the Database. Data from UHB, PUH and BH are available on reasonable request to the respective trusts, subject to HRA requirements.
+Data from HTD and NHTD are available from the CCAA Vietnam Data Access Committee, subject to an application meeting the ethical and governance requirements.
+
 ## Citation
 
 If you found our work useful, please consider citing:
