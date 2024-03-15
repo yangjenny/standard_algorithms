@@ -15,3 +15,23 @@ git clone https://github.com/yangjenny/standard_algorithms.git
 cd StandardAlgoEnv
 pip install -e .
 ```
+
+## Getting Started
+
+To run code: 
+
+```
+python run.py
+```
+
+(UCI Adult dataset automatically loaded for training)
+
+This example uses the UCI Adult dataset, where one is trying to classify income (two classes: <=50K and >50K), and mitigate gender (male vs female) bias. Additional details about the dataset, including all attributes included, can be found [here](https://archive.ics.uci.edu/ml/datasets/Adult).
+
+An example run and expected output can be found in algorithms.ipynb
+
+## Citation
+
+If you found our work useful, please consider citing:
+
+Yang, J., Dung, N. T., Thach, P. N., Phong, N. T., Phu, V. D., Phu, K. D., ... & Clifton, D. A. (2023). Generalizability assessment of AI models across hospitals: a comparative study in low-middle income and high income countries. medRxiv, 2023-11.
